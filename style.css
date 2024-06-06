@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+}
+header{
+    background-color:azure;
+    text-align: center;
+    padding: 10px;
+}
+.content{
+    width: 400px;
+    height: 400px;
+    padding-top: 20px;
+    padding-left: 150px;
+    float:left;
+
+
+
+
+}
+
+.container{
+    color:red;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
+table{
+    border-radius: 1px;
+}
+.con{
+    background-color:azure;
+}
+.omg{
+    background-color:aquamarine;
+    color:black;
+}
+
+
+
+
